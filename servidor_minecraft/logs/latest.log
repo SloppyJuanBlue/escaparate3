@@ -123,3 +123,18 @@
 [04:00:37] [Server thread/INFO]: Sayui joined the game
 [04:00:37] [Server thread/INFO]: Sayui[/127.190.62.222:56197] logged in with entity id 1007 at ([world]-210.45897336734825, 63.0, -203.83812617796215)
 [04:04:42] [Server thread/INFO]: Sayui has made the advancement [Take Aim]
+[04:06:40] [User Authenticator #2/INFO]: UUID of player Wendy_De_Sammy is bdb99ff6-c016-3145-a2ff-2caccdfe017e
+[04:06:41] [Server thread/INFO]: Wendy_De_Sammy joined the game
+[04:06:41] [Server thread/INFO]: Wendy_De_Sammy[/127.63.252.5:54609] logged in with entity id 2141 at ([world]-202.8639380540533, 63.0, -205.51249998807907)
+[04:10:39] [Server thread/INFO]: Sayui was shot by Pillager
+[04:10:45] [Server thread/INFO]: Sayui issued server command: /back
+[04:13:33] [Server thread/INFO]: Sayui was shot by Pillager
+[04:13:38] [Server thread/INFO]: Sayui issued server command: /back
+[04:14:37] [Server thread/INFO]: Wendy_De_Sammy has made the advancement [Monster Hunter]
+[04:14:47] [Server thread/INFO]: Sayui issued server command: /tp
+[04:14:50] [Server thread/INFO]: Sayui issued server command: /tpa
+[04:14:54] [Server thread/INFO]: Sayui issued server command: /tpa
+[04:14:58] [Server thread/INFO]: Sayui issued server command: /tpa Jwanxz
+[04:15:01] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[04:15:12] [Server thread/INFO]: Sayui issued server command: /tpa Jwanxz
+[04:15:13] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
