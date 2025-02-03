@@ -247,3 +247,8 @@
 [06:42:17] [Server thread/INFO]: Jwanxz issued server command: /tpa Cammxw
 [06:42:26] [Server thread/INFO]: Cammxw issued server command: /tpaccept
 [06:45:37] [Server thread/INFO]: Jwanxz was slain by Zombie
+[06:47:40] [Server thread/INFO]: Jwanxz has made the advancement [Enchanter]
+[06:50:23] [Server thread/INFO]: Cammxw issued server command: /tpa Jwanxz
+[06:50:27] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[06:52:10] [Server thread/INFO]: Set the weather to clear
+[06:56:07] [Server thread/INFO]: Villager Villager['Nitwit'/65226, uuid='20989a93-943d-4689-8fab-2ef62483b905', l='ServerLevel[world]', x=2920.43, y=66.00, z=1705.34, cpos=[182, 106], tl=27647, v=true] died, message: 'Nitwit was slain by Zombie'
