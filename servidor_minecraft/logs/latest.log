@@ -225,3 +225,7 @@
 [05:29:05] [Async Chat Thread - #24/INFO]: [Not Secure] <Jwanxz> tu estas en la aldea?
 [05:31:46] [Server thread/INFO]: Wendy_De_Sammy was slain by Zombie
 [05:31:50] [Async Chat Thread - #26/INFO]: [Not Secure] <Jwanxz> xd
+[05:37:17] [Server thread/INFO]: Villager Villager['Leatherworker'/43438, uuid='638f90e9-0847-4154-9e19-6135c33de287', l='ServerLevel[world]', x=2813.70, y=68.00, z=1240.30, cpos=[175, 77], tl=62555, v=true] died, message: 'Leatherworker was slain by Zombie'
+[05:37:36] [Server thread/INFO]: Villager Villager['Villager'/43437, uuid='46358f5d-8e14-42e5-9293-8da09ab4a9f3', l='ServerLevel[world]', x=2814.48, y=68.00, z=1242.25, cpos=[175, 77], tl=63093, v=true] died, message: 'Villager was slain by Zombie'
+[05:37:49] [Server thread/INFO]: Villager Villager['Villager'/43439, uuid='c17d224b-c334-4dde-a2e5-5153f588a325', l='ServerLevel[world]', x=2814.64, y=68.00, z=1241.90, cpos=[175, 77], tl=61410, v=true] died, message: 'Villager was slain by Zombie'
+[05:42:48] [Server thread/INFO]: Set the weather to clear
