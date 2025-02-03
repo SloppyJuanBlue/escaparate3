@@ -168,3 +168,27 @@
 [04:34:48] [Server thread/INFO]: Wendy_De_Sammy was slain by Wolf
 [04:34:57] [Server thread/INFO]: Sayui issued server command: /tpa Jwanxz
 [04:34:59] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[04:36:15] [Async Chat Thread - #10/INFO]: [Not Secure] <Jwanxz> manda tpa
+[04:37:00] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Elbromasxd9820
+[04:37:00] [localSession-7-4/INFO]: [Geyser-Spigot] Elbromasxd9820 (logged in as: Elbromasxd9820) has connected to the Java server
+[04:37:01] [User Authenticator #3/INFO]: UUID of player Elbromasxd9820 is 4e218c64-ff4f-3358-852a-de9b4e704a56
+[04:37:01] [Server thread/INFO]: Elbromasxd9820 joined the game
+[04:37:01] [Server thread/INFO]: Elbromasxd9820[/127.0.0.1:0] logged in with entity id 20677 at ([world]-54.5, 75.0, -85.5)
+[04:37:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Jwanxz> manda tpa jhon
+[04:37:51] [Server thread/INFO]: Wendy_De_Sammy issued server command: /tpa Jwanxz
+[04:37:54] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[04:38:45] [Server thread/INFO]: Elbromasxd9820 issued server command: /tpa sayui
+[04:38:49] [Server thread/INFO]: Sayui issued server command: /tpaccept
+[04:39:13] [Server thread/INFO]: Elbromasxd9820 issued server command: /tpa sayui
+[04:39:14] [Server thread/INFO]: Sayui issued server command: /tpaccept
+[04:39:50] [Async Chat Thread - #14/INFO]: [Not Secure] <Jwanxz> jhon
+[04:39:52] [Server thread/INFO]: Elbromasxd9820 has made the advancement [Sweet Dreams]
+[04:39:53] [Async Chat Thread - #14/INFO]: [Not Secure] <Jwanxz> tienes carbon?
+[04:40:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Elbromasxd9820> .l.
+[04:41:42] [Server thread/INFO]: Elbromasxd9820 has made the advancement [Stone Age]
+[04:41:51] [Server thread/INFO]: Elbromasxd9820 has made the advancement [Getting an Upgrade]
+[04:42:24] [Server thread/INFO]: Elbromasxd9820 issued server command: /skin set
+[04:43:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Jwanxz> jhon
+[04:43:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Wendy_De_Sammy> dime
+[04:45:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Wendy_De_Sammy> rte amo
+[04:45:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Jwanxz> yo tambien
