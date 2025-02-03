@@ -241,3 +241,9 @@
 [06:11:58] [Server thread/INFO]: Cammxw issued server command: /tpaccept
 [06:23:14] [Server thread/INFO]: Jwanxz issued server command: /tpa Cammxw
 [06:23:22] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[06:38:45] [Server thread/INFO]: Cammxw fell from a high place
+[06:39:03] [Server thread/INFO]: Cammxw issued server command: /tpa Jwanxz
+[06:39:05] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[06:42:17] [Server thread/INFO]: Jwanxz issued server command: /tpa Cammxw
+[06:42:26] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[06:45:37] [Server thread/INFO]: Jwanxz was slain by Zombie
