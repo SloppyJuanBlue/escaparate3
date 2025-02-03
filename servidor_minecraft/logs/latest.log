@@ -229,3 +229,11 @@
 [05:37:36] [Server thread/INFO]: Villager Villager['Villager'/43437, uuid='46358f5d-8e14-42e5-9293-8da09ab4a9f3', l='ServerLevel[world]', x=2814.48, y=68.00, z=1242.25, cpos=[175, 77], tl=63093, v=true] died, message: 'Villager was slain by Zombie'
 [05:37:49] [Server thread/INFO]: Villager Villager['Villager'/43439, uuid='c17d224b-c334-4dde-a2e5-5153f588a325', l='ServerLevel[world]', x=2814.64, y=68.00, z=1241.90, cpos=[175, 77], tl=61410, v=true] died, message: 'Villager was slain by Zombie'
 [05:42:48] [Server thread/INFO]: Set the weather to clear
+[05:47:41] [User Authenticator #4/INFO]: UUID of player Cammxw is 59621141-e202-316f-b977-fbef4aa26984
+[05:47:42] [Server thread/INFO]: Cammxw joined the game
+[05:47:42] [Server thread/INFO]: Cammxw[/127.60.146.81:49411] logged in with entity id 49644 at ([world]-226.8521418702696, 63.0, -191.92595089733632)
+[05:48:22] [Server thread/INFO]: Cammxw issued server command: /tpa
+[05:48:31] [Server thread/INFO]: Cammxw issued server command: /tpa Jwanxz
+[05:48:33] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[05:54:51] [Server thread/INFO]: Wendy_De_Sammy lost connection: Disconnected
+[05:54:51] [Server thread/INFO]: Wendy_De_Sammy left the game
