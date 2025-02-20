@@ -103,3 +103,18 @@
 [00:48:11] [Server thread/INFO]: Cammxw[/127.60.146.81:38093] logged in with entity id 1177 at ([world]3301.6957643688133, 65.0, 1339.3043507970622)
 [00:52:05] [Server thread/INFO]: Cammxw lost connection: Disconnected
 [00:52:05] [Server thread/INFO]: Cammxw left the game
+[00:56:10] [User Authenticator #2/INFO]: UUID of player Wendy_De_Sammy is bdb99ff6-c016-3145-a2ff-2caccdfe017e
+[00:56:12] [Server thread/INFO]: Wendy_De_Sammy joined the game
+[00:56:12] [Server thread/INFO]: Wendy_De_Sammy[/127.178.57.19:37085] logged in with entity id 2100 at ([world]2822.816828218358, 74.0, 1238.2742794363176)
+[00:56:16] [User Authenticator #2/INFO]: UUID of player Cammxw is 59621141-e202-316f-b977-fbef4aa26984
+[00:56:17] [Server thread/INFO]: Cammxw joined the game
+[00:56:17] [Server thread/INFO]: Cammxw[/127.60.146.81:58215] logged in with entity id 2291 at ([world]3281.634202008614, 63.0, 1366.4268048096112)
+[00:56:44] [Server thread/INFO]: Cammxw lost connection: Disconnected
+[00:56:44] [Server thread/INFO]: Cammxw left the game
+[00:57:10] [User Authenticator #2/INFO]: UUID of player Cammxw is 59621141-e202-316f-b977-fbef4aa26984
+[00:57:10] [Server thread/INFO]: Cammxw joined the game
+[00:57:10] [Server thread/INFO]: Cammxw[/127.60.146.81:55263] logged in with entity id 2487 at ([world]3284.4804696712704, 64.875, 1348.356630652979)
+[00:59:05] [Server thread/INFO]: Wendy_De_Sammy issued server command: /tpa Cammxw
+[00:59:09] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[01:02:24] [Server thread/INFO]: Cammxw has made the advancement [Cover Me with Diamonds]
+[01:02:36] [Server thread/INFO]: Wendy_De_Sammy has made the advancement [Cover Me with Diamonds]
