@@ -118,3 +118,19 @@
 [00:59:09] [Server thread/INFO]: Cammxw issued server command: /tpaccept
 [01:02:24] [Server thread/INFO]: Cammxw has made the advancement [Cover Me with Diamonds]
 [01:02:36] [Server thread/INFO]: Wendy_De_Sammy has made the advancement [Cover Me with Diamonds]
+[01:13:43] [Server thread/INFO]: Jwanxz issued server command: /tpa Cammxw
+[01:13:51] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[01:14:42] [Server thread/INFO]: Cammxw lost connection: Disconnected
+[01:14:42] [Server thread/INFO]: Cammxw left the game
+[01:15:22] [User Authenticator #3/INFO]: UUID of player Cammxw is 59621141-e202-316f-b977-fbef4aa26984
+[01:15:23] [Server thread/INFO]: Cammxw joined the game
+[01:15:23] [Server thread/INFO]: Cammxw[/127.60.146.81:56359] logged in with entity id 5369 at ([world]2806.381948365832, 75.0, 1237.490311595665)
+[01:17:15] [Server thread/INFO]: Jwanxz issued server command: /tpa Cammxw
+[01:17:21] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[01:17:55] [Server thread/INFO]: Wendy_De_Sammy issued server command: /tpa c
+[01:18:00] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[01:22:25] [Server thread/INFO]: Jwanxz issued server command: /gamerule keepInventory false
+[01:22:25] [Server thread/INFO]: [Jwanxz: Gamerule keepInventory is now set to: false]
+[01:23:05] [Server thread/INFO]: Cammxw fell from a high place
+[01:23:36] [Server thread/INFO]: Cammxw issued server command: /tpa Jwanxz
+[01:24:01] [Server thread/INFO]: Cammxw issued server command: /back
