@@ -159,3 +159,10 @@
 [02:03:05] [Server thread/INFO]: Cammxw issued server command: /tpaccept
 [02:04:27] [Server thread/INFO]: Jwanxz issued server command: /difficulty hard
 [02:04:27] [Server thread/INFO]: [Jwanxz: The difficulty has been set to Hard]
+[02:08:15] [Server thread/INFO]: Jwanxz issued server command: /tpahere Wendy_De_Sammy
+[02:08:20] [Server thread/INFO]: Wendy_De_Sammy issued server command: /tpaccept
+[02:11:41] [Server thread/INFO]: Jwanxz issued server command: /gamerule keepInventory true
+[02:11:41] [Server thread/INFO]: [Jwanxz: Gamerule keepInventory is now set to: true]
+[02:11:48] [Server thread/INFO]: Wendy_De_Sammy tried to swim in lava to escape Hoglin
+[02:12:53] [Server thread/INFO]: Cammxw issued server command: /tpa Jwanxz
+[02:12:55] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
