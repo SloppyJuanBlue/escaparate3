@@ -142,3 +142,20 @@
 [01:51:15] [Server thread/INFO]: Jwanxz issued server command: /back
 [01:53:32] [Server thread/INFO]: Cammxw issued server command: /tpa Jwanxz
 [01:53:35] [Server thread/INFO]: Jwanxz issued server command: /tpaccept
+[01:56:42] [User Authenticator #4/INFO]: UUID of player Wendy_De_Sammy is bdb99ff6-c016-3145-a2ff-2caccdfe017e
+[01:56:43] [Server thread/INFO]: Wendy_De_Sammy joined the game
+[01:56:43] [Server thread/INFO]: Wendy_De_Sammy[/127.178.57.19:39321] logged in with entity id 12505 at ([world]2397.300000011921, 89.5, 1202.850339900653)
+[01:57:02] [Server thread/INFO]: Cammxw was doomed to fall by Zombie
+[01:57:14] [Server thread/INFO]: Cammxw issued server command: /back
+[01:58:33] [Server thread/INFO]: Jwanxz issued server command: /gamerule keepInventory true
+[01:58:33] [Server thread/INFO]: [Jwanxz: Gamerule keepInventory is now set to: true]
+[01:59:03] [Server thread/INFO]: Cammxw was slain by Jwanxz
+[01:59:14] [Server thread/INFO]: Wendy_De_Sammy issued server command: /tpa c
+[01:59:19] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[02:00:02] [Server thread/INFO]: Wendy_De_Sammy has made the advancement [We Need to Go Deeper]
+[02:01:35] [Server thread/INFO]: Wendy_De_Sammy issued server command: /tpa c
+[02:01:42] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[02:02:59] [Server thread/INFO]: Jwanxz issued server command: /tpa Cammxw
+[02:03:05] [Server thread/INFO]: Cammxw issued server command: /tpaccept
+[02:04:27] [Server thread/INFO]: Jwanxz issued server command: /difficulty hard
+[02:04:27] [Server thread/INFO]: [Jwanxz: The difficulty has been set to Hard]
