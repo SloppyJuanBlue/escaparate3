@@ -97,3 +97,9 @@
 [00:39:43] [User Authenticator #0/INFO]: UUID of player Jwanxz is a7486279-1c00-380e-a00c-0b58214278c6
 [00:39:45] [Server thread/INFO]: Jwanxz joined the game
 [00:39:45] [Server thread/INFO]: Jwanxz[/127.75.99.252:37135] logged in with entity id 16 at ([world]3157.258075679626, 70.0, 1371.8032717341302)
+[00:46:39] [Server thread/INFO]: Jwanxz issued server command: /skin set Jwanxz
+[00:48:09] [User Authenticator #1/INFO]: UUID of player Cammxw is 59621141-e202-316f-b977-fbef4aa26984
+[00:48:11] [Server thread/INFO]: Cammxw joined the game
+[00:48:11] [Server thread/INFO]: Cammxw[/127.60.146.81:38093] logged in with entity id 1177 at ([world]3301.6957643688133, 65.0, 1339.3043507970622)
+[00:52:05] [Server thread/INFO]: Cammxw lost connection: Disconnected
+[00:52:05] [Server thread/INFO]: Cammxw left the game
